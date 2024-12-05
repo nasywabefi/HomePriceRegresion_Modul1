@@ -1,4 +1,7 @@
 # HomePriceRegresion_Modul1
+# Nasywa Befiputri_2203015044
+
+This Repository is for My Collage SubMission on "introduction to artificial intelligence" Class (Desemebr 2024)
 
 libary
 ```bash
